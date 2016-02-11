@@ -17,3 +17,8 @@ Making new versions of a project. Making experimental changes. Trying different 
 How do the diagrams help you visualize the branch structure?
 
 I can more clearly see where new features occur, as well as which results from which commits will be affecting the tip of whatever branch I am on.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a single branch with all of the additions and deletions of either branches. The diagram portrayal is done to show that even though they are merged as one single branch, the integrity of the lineage is still upheld.
