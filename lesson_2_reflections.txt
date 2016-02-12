@@ -22,3 +22,8 @@ I can more clearly see where new features occur, as well as which results from w
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a single branch with all of the additions and deletions of either branches. The diagram portrayal is done to show that even though they are merged as one single branch, the integrity of the lineage is still upheld.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of automatic merging are that it’s fast and requires less effort, a cons though is that it is not as clear what changes are being made
