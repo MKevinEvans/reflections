@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 When you're working on multiple machines or working remotely with someone else.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a clone that occurs only inside of gihub that attributes the original to the creator. A clone copies all information (including history of changes) without attribution to the creator. Branches refer back to the original (be that a clone or a fork) and leave the original (master branch) untouched.
+
