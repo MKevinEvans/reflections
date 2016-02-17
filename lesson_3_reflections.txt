@@ -11,3 +11,8 @@ A fork is a clone that occurs only inside of gihub that attributes the original 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 so you can continue doing work and merge the copies later while offline.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would email changes and have to communicate very precisely on what each person was working on. Everything would be harder, nothing would be easier.
